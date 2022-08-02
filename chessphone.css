@@ -1,0 +1,23 @@
+body{
+    background-size: 1300px 500px ;
+}
+
+.navbar{
+    flex-direction: column;
+}
+
+.container{
+    margin: auto;
+}
+
+.formgroup input {
+    width: 320px;
+}
+
+.left img{
+    width: 70px;
+}
+
+.right{
+    display: none;
+}

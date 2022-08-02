@@ -1,0 +1,11 @@
+.navbar{
+    flex-direction: column;
+}
+
+.container{
+    margin: auto;
+}
+
+.formgroup input {
+    width: 320px;
+}
